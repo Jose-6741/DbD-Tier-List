@@ -1,0 +1,15 @@
+#game {
+    height: 180px;
+    width: 200px;
+}
+body {
+    background-color: #424f6f;
+}
+table * {
+    background-color:darkred;
+    text-align: center;
+    border: 1px solid black;
+}
+img {
+    width: 80px;
+}
