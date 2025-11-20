@@ -9,6 +9,8 @@ table * {
     background-color:darkred;
     text-align: center;
     border: 1px solid black;
+    max-width: 720px;
+    padding: 6px;
 }
 img {
     width: 80px;
